@@ -1,5 +1,11 @@
 # own-web-browser-using-python
 I have created my own web browser using python 3.8.3 version 
+ 
+ 
+ 
+ 
+ 
+ 
 import sys
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
